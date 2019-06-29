@@ -1,0 +1,15 @@
+"{\"email\":\"franswig@gmail.com\",
+
+
+\"profile_pic\":\"\\/images\\/missing.png\",
+
+
+\"last_name\":\"baaaa\",
+
+\"favorite\":true,
+
+\"phone_number\":\"081278317\",
+
+\"first_name\":\"AAAbbb\"}"
+
+- some : "{\"email\":\"franswig@gmail.com\",\"profile_pic\":\"\\/images\\/missing.png\",\"last_name\":\"baaaa\",\"favorite\":true,\"phone_number\":\"081 278 317 82\",\"first_name\":\"AAAbbb\"}"
